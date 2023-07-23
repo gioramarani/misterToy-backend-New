@@ -1,0 +1,20 @@
+[
+    {
+        "fullName": "Puku",
+        "userName": "PK",
+        "password": "puku",
+        "isAdmin": false
+    },
+    {
+        "fullName": "Shuku",
+        "userName": "SK",
+        "password": "shuku",
+        "isAdmin": true
+    },
+    {
+        "fullName": "Luku",
+        "userName": "LK",
+        "password": "luku",
+        "isAdmin": false
+    }
+]

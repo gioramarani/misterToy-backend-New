@@ -2,7 +2,6 @@
   {
     "name": "Yoyoman",
     "price": 50,
-    "_id": "0SioK",
     "labels": [
         {
           "title": "Boll",
@@ -22,7 +21,6 @@
   },
 
   {
-    "_id": "cdVW2",
     "name": "chugbugu",
     "price": 60,
     "labels": [
@@ -43,12 +41,10 @@
       "inStock": true
   },
   {
-    "_id": "8XLJE",
     "name": "Baba Laba",
     "price": 90
   },
   {
-    "_id": "Z2k4R12",
     "name": "BogieMan",
     "price": 57,
     "labels": [
@@ -69,7 +65,6 @@
     "inStock": false
   },
   {
-    "_id": "Z2k433",
     "name": "Jonie Bravo",
     "price": 57,
     "labels": [
